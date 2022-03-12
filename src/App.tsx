@@ -14,8 +14,8 @@ function App() {
 
     <>
        {/* <One/>  */}
-      <Two/>
-      {/* <Three/> */}
+      {/* <Two/> */}
+      <Three/>
       {/* <Four/> */}
       {/* <Five/> */}
       {/* <Six/> */}
